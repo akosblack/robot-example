@@ -1,0 +1,412 @@
+INVOICE
+
+# 13759
+
+Sit Amet Corp.
+
+Date: Jun 19, 2019
+‘Sit Amet Corp. $879.60
+1938 Amet Avenue
+Lake Cowichan
+USA
+Bill To:
+ACME Inc.
+
+5171 Dui, Street
+Denver, Colorado
+USA
+
+Quantity Amount
+Hem 1 5 $22.00 $110.00
+Mtem 2 89 $7.00 $623.00
+Subtotal $733.00
+
+Tax (20%) $146.60
+
+Total: $879.60
+
+INVOICE
+
+# 13759
+
+Sit Amet Corp.
+
+Date: Jun 19, 2019
+‘Sit Amet Corp. $879.60
+1938 Amet Avenue
+Lake Cowichan
+USA
+Bill To:
+ACME Inc.
+
+5171 Dui, Street
+Denver, Colorado
+USA
+
+Quantity Amount
+Hem 1 5 $22.00 $110.00
+Mtem 2 89 $7.00 $623.00
+Subtotal $733.00
+
+Tax (20%) $146.60
+
+Total: $879.60
+
+Aenean LLC INVOICE
+
+3217 Nunc St. 2019-06-15
+Buckley, Washington Invoice #284232
+USA PO 456001207
+(655) 832 2157 Att: Ms. Jane Doe
+office @ aenean.com ACME Inc.
+
+Dear Ms. Jane Doe,
+
+Please find below a cost-breakdown for the recent work completed. Please make payment at
+your earliest convenience, and do not hesitate to contact me with any questions.
+
+Many thanks,
+John Smith
+
+# tem Description Quantity Unit price (€) | Total (€)
+1 Item 1 12 37.20 454.80
+2 Item 2 30 12.89 386.70
+
+3 .
+
+4 5
+
+5 .
+
+6 5
+
+7 .
+
+8 z
+‘Subtotal 841.50
+Sales Tax (20%) 168.30
+Total 1009.80
+
+Many thanks for your custom! I look forward to doing business with you again in due course.
+
+Powered by
+
+INVOICE
+
+# 16996
+
+Sit Amet Corp.
+
+Date: Jun 20, 2019
+‘Sit Amet Corp. $2,100.00
+1938 Amet Avenue
+Lake Cowichan
+USA
+Bill To:
+ACME Inc.
+
+5171 Dui, Street
+Denver, Colorado
+USA
+
+Quantity Re Amount
+50 $35.00 $1,750.00
+Subtotal $1,750.00
+
+Tax (20%) $350.00
+
+Total: $2,100.00
+
+Aenean LLC INVOICE
+
+3217 Nunc St. 2019-06-02
+Buckley, Washington Invoice #284212
+USA PO 456001211
+(655) 832 2157 Att: Ms. Jane Doe
+office @ aenean.com ACME Inc.
+
+Dear Ms. Jane Doe,
+
+Please find below a cost-breakdown for the recent work completed. Please make payment at
+your earliest convenience, and do not hesitate to contact me with any questions.
+
+Many thanks,
+John Smith
+
+# tem Description ‘Quantity Unit price (€) | Total (€)
+1 Item 1 20 37.20 3411.00
+2 Item 2 3 12.89 38.67
+
+3 .
+
+4 5
+
+5 .
+
+6 5
+
+7 .
+
+8 z
+‘Subtotal 3449.67
+Sales Tax (20%) 689.93,
+Total 4139.60
+
+Many thanks for your custom! I look forward to doing business with you again in due course.
+
+Powered by
+
+INVOICE
+
+# 16892
+
+Sit Amet Corp.
+
+Date: Jun 1, 2019
+Sit Amet Corp. $21,442.80
+1938 Amet Avenue
+Lake Cowichan
+USA
+Bill To:
+ACME Inc.
+
+5171 Dui, Street
+Denver, Colorado
+USA
+
+Quantity Re Amount
+1 $17,869.00 $17,869.00
+Subtotal $17,869.00
+
+Tax (20%) $3,573.80
+
+Total: $21,442.80
+
+Aenean LLC INVOICE
+
+3217 Nunc St. 2019-06-28
+Buckley, Washington Invoice #284228
+USA PO 456001200
+(655) 832 2157 Att: Ms. Jane Doe
+office @ aenean.com ACME Inc.
+
+Dear Ms. Jane Doe,
+
+Please find below a cost-breakdown for the recent work completed. Please make payment at
+your earliest convenience, and do not hesitate to contact me with any questions.
+
+Many thanks,
+John Smith
+
+# tem Description Quantity Unit price (€) | Total (€)
+1 Services 12 125.00 1500.00
+2 5
+
+3 .
+
+4 5
+
+5 .
+
+6 5
+
+7 .
+
+8 z
+‘Subtotal 1500.00
+Sales Tax (20%) 300.00
+Total 1800.00
+
+Many thanks for your custom! I look forward to doing business with you again in due course.
+
+Powered by
+
+Aenean LLC INVOICE
+
+3217 Nunc St. 2019-06-01
+Buckley, Washington Invoice #284210
+USA PO 456001201
+(655) 832 2157 Att: Ms. Jane Doe
+office @ aenean.com ACME Inc.
+
+Dear Ms. Jane Doe,
+
+Please find below a cost-breakdown for the recent work completed. Please make payment at
+your earliest convenience, and do not hesitate to contact me with any questions.
+
+Many thanks,
+John Smith
+
+# tem Description Quantity Unit price (€) | Total (€)
+1 Services 20 125.00 2500.00
+2 5
+
+3 .
+
+4 5
+
+5 .
+
+6 5
+
+7 .
+
+8 z
+‘Subtotal 2500.00
+Sales Tax (20%) 500.00
+Total 3000.00
+
+Many thanks for your custom! I look forward to doing business with you again in due course.
+
+Powered by
+
+INVOICE
+
+#11448
+
+Sit Amet Corp.
+
+Date: Jun 26, 2019
+‘Sit Amet Corp. $7,288.80
+1938 Amet Avenue
+Lake Cowichan
+USA
+Bill To:
+ACME Inc.
+
+5171 Dui, Street
+Denver, Colorado
+USA
+
+Quantity Re Amount
+Hem 1 40 $150.00 $6,000.00
+Mtem 2 2 $37.00 $74.00
+Subtotal $6,074.00
+
+Tax (20%) $1,214.80
+
+Total: $7,288.80
+
+INVOICE
+
+#11577
+
+Sit Amet Corp.
+
+Date: Jun 30, 2019
+Sit Amet Corp. $17,310.00
+1938 Amet Avenue
+Lake Cowichan
+USA
+Bill To:
+ACME Inc.
+
+5171 Dui, Street
+Denver, Colorado
+USA
+
+Quantity Re Amount
+1 $14,425.00 $14,425.00
+Subtotal $14,425.00
+
+Tax (20%) $2,885.00
+
+Total: $17,310.00
+
+INVOICE
+
+# 18752
+
+Sit Amet Corp.
+
+Date: Jul 1, 2019
+‘Sit Amet Corp. $1,204.80
+1938 Amet Avenue
+Lake Cowichan
+USA
+Bill To:
+ACME Inc.
+
+5171 Dui, Street
+Denver, Colorado
+USA
+
+Quantity Amount
+Hem 1 12 $35.00 $420.00
+Hem 2 42 $200 $84.00
+Item 3 5 $100.00 $500.00
+Subtotal $1,004.00
+
+Tax (20%) $200.80
+
+Total: $1,204.80
+
+Aenean LLC INVOICE
+
+3217 Nunc St. 2019-06-20
+Buckley, Washington Invoice #284221
+USA PO 456001205
+(655) 832 2157 Att: Ms. Jane Doe
+office @ aenean.com ACME Inc.
+
+Dear Ms. Jane Doe,
+
+Please find below a cost-breakdown for the recent work completed. Please make payment at
+your earliest convenience, and do not hesitate to contact me with any questions.
+
+Many thanks,
+John Smith
+# tem Description Quantity Unit price (€) | Total (€)
+1 Services 42 125.00 5250.00
+2 :
+3 .
+4 5
+5 .
+6 5
+7 .
+8 z
+‘Subtotal 5250.00
+Sales Tax (20%) 1050.00
+Total 6300.00
+
+Many thanks for your custom! I look forward to doing business with you again in due course.
+
+Powered by
+
+Aenean LLC INVOICE
+
+3217 Nunc St. 2019-06-03
+Buckley, Washington Invoice #284213
+USA PO 456001211
+(655) 832 2157 Att: Ms. Jane Doe
+office @ aenean.com ACME Inc.
+
+Dear Ms. Jane Doe,
+
+Please find below a cost-breakdown for the recent work completed. Please make payment at
+your earliest convenience, and do not hesitate to contact me with any questions.
+
+Many thanks,
+John Smith
+
+# tem Description ‘Quantity Unit price (€) | Total (€)
+1 Item 1 20 37.20 3411.00
+2 Item 2 3 1289 38.67
+
+3 tem 3 50 70.00 3500.00
+4 Item 4 1 1199.00 1199.00
+5 .
+
+6 5
+
+7 .
+
+8 z
+‘Subtotal 8148.67
+Sales Tax (20%) 1629.73
+Total 9778.40
+
+Many thanks for your custom! I look forward to doing business with you again in due course.
+
+Powered by
+
