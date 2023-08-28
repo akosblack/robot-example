@@ -4,16 +4,20 @@ import requests
 import csv
 import re
 import logging
+from pathlib import Path
+
 
 class DataReader:
     def __init__(self):
         # Log fájl elérési útja és neve
-        log_file_path = 'D:\VSCode_Projects\robot-example\log\log_file.log'
+        #Path.cwd()
+        log_folder = Path.cwd() / 'log'
+        self.log_file_path = log_folder / 'log_file.log'
 
         self.data_folder = os.path.join(os.path.dirname(__file__), "..", "input")
         
         # Log fájl beállítása
-        logging.basicConfig(level=logging.DEBUG, filename=log_file_path, filemode='w',
+        logging.basicConfig(level=logging.DEBUG, filename=self.log_file_path, filemode='w',
                             format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
         
         self.logger = logging.getLogger(__name__)  # Itt hozzuk létre az osztályváltozót
@@ -74,7 +78,7 @@ class DataReader:
             line = line.strip()
 
             if line.startswith('Total'):
-                self.append_to_txt('log_file_path', f"{id} Total line: {line}")
+                self.append_to_txt(self.log_file.path, f"{id} Total line: {line}")
                 formatted_line = line.replace('Total', '')
                 formatted_line = line.replace(':', '')
                 formatted_line = line.replace(',', '')
